@@ -28,6 +28,9 @@ Choi & Kim. NIPS '12. use Dirichlet process mixture model: <br />
 https://papers.nips.cc/paper/4737-nonparametric-bayesian-inverse-reinforcement-learning-for-multiple-reward-functions.pdf
 
 ## Thompson sampling-style approaches for RL
+Osband et al. Deep Exploration via Randomized Value Functions:
+https://arxiv.org/pdf/1703.07608.pdf
+
 Osband et al. Posterior Sampling:
 https://arxiv.org/pdf/1306.0940.pdf
 
