@@ -21,9 +21,14 @@ Baram et al. ICML ’17. use learned dynamics model to backdrop through discrimi
 http://proceedings.mlr.press/v70/baram17a/baram17a.pdf <br />
 Code: https://github.com/itaicaspi/mgail
 
-## Bayesian Nonparametric IRL
-Michini & How. partition trajectories into smaller groups. use Chinese Restaurant Process: <br /> http://www.cs.bris.ac.uk/~flach/ECMLPKDD2012papers/1125766.pdf
+## Bayesian IRL
+Ramachandran & Amir IJCAI '07. Classic BIRL paper: <br />
+https://www.aaai.org/Papers/IJCAI/2007/IJCAI07-416.pdf
 
+Choi & Kim. NIPS '11. propose a gradient method to calculate the MAP estimate that is based on the (sub)differentiability of the posterior distribution
+https://papers.nips.cc/paper/4479-map-inference-for-bayesian-inverse-reinforcement-learning.pdf
+
+## Bayesian Nonparametric IRL
 Choi & Kim. NIPS '12. use Dirichlet process mixture model: <br />
 https://papers.nips.cc/paper/4737-nonparametric-bayesian-inverse-reinforcement-learning-for-multiple-reward-functions.pdf
 
