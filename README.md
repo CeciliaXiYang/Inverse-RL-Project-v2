@@ -25,7 +25,7 @@ Code: https://github.com/itaicaspi/mgail
 Ramachandran & Amir IJCAI '07. Classic BIRL paper: <br />
 https://www.aaai.org/Papers/IJCAI/2007/IJCAI07-416.pdf
 
-Choi & Kim. NIPS '11. propose a gradient method to calculate the MAP estimate that is based on the (sub)differentiability of the posterior distribution
+Choi & Kim. NIPS '11. propose a gradient method to calculate the MAP estimate that is based on the (sub)differentiability of the posterior distribution: <br />
 https://papers.nips.cc/paper/4479-map-inference-for-bayesian-inverse-reinforcement-learning.pdf
 
 ## Bayesian Nonparametric IRL
